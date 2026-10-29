@@ -1,0 +1,7 @@
+{
+  "tasks": [
+    { "id": "1", "title": "Review frontend curriculum", "description": "Check this week's React learning objectives.", "status": "In Progress", "priority": "High" },
+    { "id": "2", "title": "Prepare performance tracking update", "description": "Summarize work completed for the weekly session.", "status": "To Do", "priority": "Medium" },
+    { "id": "3", "title": "Practice REST API methods", "description": "Test GET, POST, PUT and DELETE in the Network tab.", "status": "Done", "priority": "Low" }
+  ]
+}
